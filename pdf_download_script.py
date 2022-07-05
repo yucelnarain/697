@@ -67,6 +67,6 @@ def download_pdfs(sample_number ,original_excel_file, path_to_store_converted_ex
                 print("Request timed out")
     return 
 # %%
-if __name__ == '__main__':
-    download_pdfs(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
+#if __name__ == '__main__':
+download_pdfs(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
 # %%
