@@ -1,0 +1,6 @@
+html2text==2020.1.16
+openpyxl==3.0.9
+pandas==1.4.1
+xlrd==2.0.1
+xlsx2html==0.4.0
+xlwings==0.27.10
