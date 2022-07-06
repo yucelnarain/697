@@ -1,0 +1,1483 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<link href="/som/-/media/Base-Themes/Core-Libraries/styles/optimized-min.css?rev=7525a8a09ab04d15a1e0a66fb14eae58&hash=B2AC0D990DEBCD5F687411566C036134" rel="stylesheet" /><link href="/som/-/media/Base-Themes/Main-Theme/styles/optimized-min.css?rev=e34cedcb35564fedae3666d5e8935552&hash=0C486664EE3325EE947468D1E46C07EB" rel="stylesheet" /><link href="/som/-/media/Themes/eMiCoreTheme/som-guidelines/styles/pre-optimized-min.css?rev=18051165c923482386b1848770e73370&hash=3EC7EDEC6DED4287C3EFF31D9792F829" rel="stylesheet" /><link href="/som/-/media/Themes/eMiCoreTheme/DataTables/Styles/optimized-min.css?rev=7129f23ad0e243078422da26f3be7e90&hash=92CD03D52946D28D2D3477D9CC708339" rel="stylesheet" /><link href="/som/-/media/Base-Themes/Slick-Carousel/styles/optimized-min.css?rev=298286d0a1c04141b61b52cb6533e231&hash=5F38193D892F482913E26B3A815CAB66" rel="stylesheet" /><link href="/som/-/media/Themes/eMiCoreTheme/DateRangePicker/Styles/optimized-min.css?rev=43a538e060e94277b19121e35570fa16&hash=C8A6078D1A1442E81ACD14B1DB1D4914" rel="stylesheet" /><link href="/som/-/media/Themes/eMiCoreTheme/eMiCoreTheme/styles/pre-optimized-min.css?rev=1bfda6b9a2124181a674d6106ed7449d&hash=FB08344EF420E1E93631CF4A193F2852" rel="stylesheet" />    
+<meta name="VIcurrentDateTime" content="637781336356025578" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    
+
+
+    <title>SOM - 404 - Page Not Found</title>
+
+
+<link rel="canonical" href="https://www.michigan.gov/som/404" />
+
+
+
+    <link href="/som/-/media/Project/Websites/shared/Browser-Icon/favicon.ico?rev=2e0c4e282d1f41d7add652b27b58dd38&amp;hash=FF7926601850C244C7E2ED090794A573" rel="shortcut icon" />
+
+
+    
+        <script type="text/javascript">!function(T,l,y){var S=T.location,u="script",k="instrumentationKey",D="ingestionendpoint",C="disableExceptionTracking",E="ai.device.",I="toLowerCase",b="crossOrigin",w="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"4",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[I](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,p,l,u;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][I]()]=i[1])}if(!e[D]){var r=e.endpointsuffix,o=r?e.location:null;e[D]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[k]||d[k]||"",p=s[D],l=p?p+"/v2/track":config.endpointUrl,(u=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=l,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),u.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,l)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:w,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(w,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(u,l))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(u);n.src=h;var e=y[b];return!e&&""!==e||"undefined"==n[b]||(n[b]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(u)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[C]&&!0!==s[C]){method="onerror",t(["_"+method]);var c=T[method];T[method]=function(e,t,n,a,i){var r=c&&c(e,t,n,a,i);return!0!==r&&m["_"+method]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);(T[t]=n).queue&&0===n.queue.length&&n.trackPageView({})}(window,document,{
+src: "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js", cfg: { instrumentationKey: "5cbc9876-8f0d-4b29-9f6d-9f0beae513d4" }});</script>
+
+    <!--Custom eMich Metadata Rendering advanced Favicon from SXA Site Settings-->
+
+
+
+<meta property="og:title"  content="404" /><meta property="og:url"  content="https://www.michigan.gov/som/404" />
+
+
+
+
+
+<meta property="twitter:title"  content="404" /><meta property="twitter:card"  content="summary_large_image" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+    
+        <script type="text/javascript">!function(T,l,y){var S=T.location,u="script",k="instrumentationKey",D="ingestionendpoint",C="disableExceptionTracking",E="ai.device.",I="toLowerCase",b="crossOrigin",w="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"4",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[I](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,p,l,u;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][I]()]=i[1])}if(!e[D]){var r=e.endpointsuffix,o=r?e.location:null;e[D]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[k]||d[k]||"",p=s[D],l=p?p+"/v2/track":config.endpointUrl,(u=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=l,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),u.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,l)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:w,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(w,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(u,l))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(u);n.src=h;var e=y[b];return!e&&""!==e||"undefined"==n[b]||(n[b]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(u)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[C]&&!0!==s[C]){method="onerror",t(["_"+method]);var c=T[method];T[method]=function(e,t,n,a,i){var r=c&&c(e,t,n,a,i);return!0!==r&&m["_"+method]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);(T[t]=n).queue&&0===n.queue.length&&n.trackPageView({})}(window,document,{
+src: "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js", cfg: { instrumentationKey: "5cbc9876-8f0d-4b29-9f6d-9f0beae513d4" }});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTW7M9');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="default-device bodyclass">
+    
+
+
+    
+        <script type="text/javascript">!function(T,l,y){var S=T.location,u="script",k="instrumentationKey",D="ingestionendpoint",C="disableExceptionTracking",E="ai.device.",I="toLowerCase",b="crossOrigin",w="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"4",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[I](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,p,l,u;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][I]()]=i[1])}if(!e[D]){var r=e.endpointsuffix,o=r?e.location:null;e[D]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[k]||d[k]||"",p=s[D],l=p?p+"/v2/track":config.endpointUrl,(u=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=l,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),u.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,l)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:w,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(w,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(u,l))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(u);n.src=h;var e=y[b];return!e&&""!==e||"undefined"==n[b]||(n[b]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(u)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[C]&&!0!==s[C]){method="onerror",t(["_"+method]);var c=T[method];T[method]=function(e,t,n,a,i){var r=c&&c(e,t,n,a,i);return!0!==r&&m["_"+method]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);(T[t]=n).queue&&0===n.queue.length&&n.trackPageView({})}(window,document,{
+src: "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js", cfg: { instrumentationKey: "5cbc9876-8f0d-4b29-9f6d-9f0beae513d4" }});</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-WTW7M9'
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+<!-- #wrapper -->
+
+<meta name="VIcurrentDateTime" content="637781336356352441" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+<div id="wrapper">
+    <a class="sr-only sr-only-focusable jump-to-id header__skip" href="#content" data-target-id="main"><span class="skip-main">Skip to main content</span></a>
+    <!-- #header -->
+    <header>
+        <div id="header" class="">
+            
+
+
+    
+
+<div class="component content component__section main-width">
+    <div class="component-content">
+<div class="print-only">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-12">
+        <!-- Get Url for mobile page logo -->
+       
+   
+       
+
+   
+       
+        <img class="header-logo" src="/som/-/media/Project/Websites/shared/Site-Logos/Migov.svg?rev=ca7708c222784c53be5a5ca8a9718f5a&hash=384CA63FA40BA28DB07B34539109F22C" alt="Michigan Header No Logo" /> 
+      
+    
+      </div>
+      <div class="col-12">
+        <!-- Get Site Name -->
+        <div class="section-title mb-0">State of Michigan</div>
+      </div>
+    </div>
+  </div>
+</div><div class="navbar"><div class="navbar-brand py-4 pl-3">
+
+<a  href="/som" class="navbar-brand-img">
+
+    
+        <img class="header-logo-img" src="/som/-/media/Project/Websites/shared/Site-Logos/MichiganGlobal-logo.svg?rev=bf5ee6f4ce5f41ab83b971abe817efd2&hash=4F3EFAF5FDF2CB5380FF1C0BABB9FE71" alt="Michigan Header Logo" /> 
+    
+    
+
+    
+    
+        <img class="header-logo" src="/som/-/media/Project/Websites/shared/Site-Logos/Migov.svg?rev=ca7708c222784c53be5a5ca8a9718f5a&hash=384CA63FA40BA28DB07B34539109F22C" alt="Michigan Header No Logo" /> 
+    
+    
+</a>
+
+<a  href="/som" class="navbar-brand-title">
+<span class="ml-3 header__section-title">State of Michigan</span>
+</a>
+</div><button class="header__section-search-wrapper" aria-label="Search">
+    <span class="header__section-search-icon" aria-hidden="true"></span>
+</button></div>    </div>
+</div>
+
+
+
+    <section class="component component-wrapper">
+            <div class="container-fluid">
+<div class="row">    <div class="component navigation col-12 d-none d-md-block navigation-main navigation-main-vertical">
+        <div class="component-content">
+<div id="menuA" aria-label="Main menu"aria-labelledby="Main menu" role="navigation" class="headerMain-menu main-width">
+    <div class="menu-a">
+        <div class="main-nav">
+            <ul class="clearfix nav main-menu">
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                        <a href="/som/online-services" target="_self" data-index="0" class="nav-link lv1-item_0">
+                                            Online Services
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title" data-id="#meganav_a3a9bd218d07465388dc4e9f341308f9">
+                                        <a tabindex="0" data-index="1" class="not-link nav-link lv1-item_1">
+                                            About Michigan
+                                            <span class="header-caret"></span>
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title" data-id="#meganav_9945a5e0924641869b014aaed1a95511">
+                                        <a tabindex="0" data-index="2" class="not-link nav-link lv1-item_2">
+                                            Government
+                                            <span class="header-caret"></span>
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                        <a href="/som/residents" target="_self" data-index="3" class="nav-link lv1-item_3">
+                                            Residents
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                        <a href="/som/business" target="_self" data-index="4" class="nav-link lv1-item_4">
+                                            Business
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title" data-id="#meganav_f98fb8c5081247aebb0ad2d8afca9886">
+                                        <a tabindex="0" data-index="5" class="not-link nav-link lv1-item_5">
+                                            Job Seekers
+                                            <span class="header-caret"></span>
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                        <a href="/som/social-media" target="_self" data-index="6" class="nav-link lv1-item_6">
+                                            Social Media
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                        <a href="/som/minewswire" target="_self" data-index="7" class="nav-link lv1-item_7">
+                                            MiNewswire
+                                        </a>
+                                    </div>
+                            </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="megamenu main-nav" id="meganav_465e34352e054f91b4a4c176cd92b1ea">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/online-services">
+                                    Online Services
+                                </a>
+                                <ul class="nav flex-column mt-3">
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_a3a9bd218d07465388dc4e9f341308f9">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/about-michigan">
+                                    About Michigan
+                                </a>
+                                <ul class="nav flex-column mt-3">
+                                        <li class="nav-item">
+                                                    <a href="/som/about-michigan/state-facts-and-symbols" data-index="0" class="nav-link lv2-0 lv2-last" target="_self">
+                                                        State Symbols Songs and Emblems
+                                                    </a>
+                                        </li>
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_d613b2780ef2430593cfdc2e8e3ade0e">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/about-michigan/state-facts-and-symbols" target="_self">
+                                        State Symbols Songs and Emblems
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_9945a5e0924641869b014aaed1a95511">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/government">
+                                    Government
+                                </a>
+                                <ul class="nav flex-column mt-3">
+                                        <li class="nav-item">
+                                                    <a href="/som/government/state-license-search" data-index="0" class="nav-link lv2-0" target="_self">
+                                                        State License Search
+                                                    </a>
+                                        </li>
+                                        <li class="nav-item">
+                                                <a tabindex="0" data-index="1" class="not-link nav-link lv2-1" data-subnavid="#subnav_02ddb9ed0dd04a4bbaae77314f572e3c" target="_self">
+                                                    Branches of Government
+                                                    <span class="header-caret-next"></span>
+                                                </a>
+                                        </li>
+                                        <li class="nav-item">
+                                                    <a href="/som/government/local-government-form-search" data-index="2" class="nav-link lv2-2" target="_self">
+                                                        Local Government Forms Search
+                                                    </a>
+                                        </li>
+                                        <li class="nav-item">
+                                                    <a href="/som/government/state-capitol" data-index="3" class="nav-link lv2-3" target="_self">
+                                                        Michigan State Capitol
+                                                    </a>
+                                        </li>
+                                        <li class="nav-item">
+                                                    <a href="https://www.michigan.gov/dtmb/buildings" data-index="4" class="nav-link lv2-4" target="">
+                                                        State Facilities
+                                                    </a>
+                                        </li>
+                                        <li class="nav-item">
+                                                    <a href="/som/government/state-holidays" data-index="5" class="nav-link lv2-5 lv2-last" target="_self">
+                                                        State Holidays
+                                                    </a>
+                                        </li>
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_2447f57d7ac745ac86210374f7e9636e">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/government/state-license-search" target="_self">
+                                        State License Search
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_02ddb9ed0dd04a4bbaae77314f572e3c">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/government/branches-of-government" target="_self">
+                                        Branches of Government
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                    <ul class="nav flex-column mt-3">
+                                                <li class="nav-item">
+                                                        <a href="/som/government/branches-of-government/executive-branch" data-index="0" class="nav-link lv3-0" target="_self">
+                                                            Executive Branch
+                                                        </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                        <a href="/som/government/branches-of-government/judicial-branch" data-index="1" class="nav-link lv3-1" target="_self">
+                                                            Judicial Branch
+                                                        </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                        <a href="/som/government/branches-of-government/legislative-branch" data-index="2" class="nav-link lv3-2" target="_self">
+                                                            Legislative Branch
+                                                        </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                        <a href="/som/government/branches-of-government/tribal-government" data-index="3" class="nav-link lv3-3 lv3-last" target="_self">
+                                                            Tribal Government
+                                                        </a>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_4e799515c9a94a6cac8ffa791fe90d38">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/government/local-government-form-search" target="_self">
+                                        Local Government Forms Search
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_afe85bffa20a4b63be7ebfdd29eb71e9">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/government/state-capitol" target="_self">
+                                        Michigan State Capitol
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_7312dc77ac864191ac9d6a13667685bf">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="https://www.michigan.gov/dtmb/buildings" target="">
+                                        State Facilities
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_3400b09fc945401a9d050dee7983dfca">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/government/state-holidays" target="_self">
+                                        State Holidays
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_bcc5fee0cdac4869b101bc954be1a0a0">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/residents">
+                                    Residents
+                                </a>
+                                <ul class="nav flex-column mt-3">
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_a2186ccfe2c44fc298c7258e69a8ce59">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/business">
+                                    Business
+                                </a>
+                                <ul class="nav flex-column mt-3">
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_f98fb8c5081247aebb0ad2d8afca9886">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/job-seekers">
+                                    Job Seekers
+                                </a>
+                                <ul class="nav flex-column mt-3">
+                                        <li class="nav-item">
+                                                    <a href="/som/job-seekers/state-of-michigan-employment" data-index="0" class="nav-link lv2-0 lv2-last" target="_self">
+                                                        State of Michigan Employment
+                                                    </a>
+                                        </li>
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                        <div class="col-12 col-md-7 main-nav third-level" id="subnav_0309773ab8cd443e854ad9f9a1b40719">
+                            <div class="row no-gutters">
+                                <div class="col-12 col-md-8">
+                                    <a class="third-level-title h3 ml-3 text-primary" href="/som/job-seekers/state-of-michigan-employment" target="_self">
+                                        State of Michigan Employment
+                                    </a>
+                                    <p class="ml-3 nav-text">
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_401209098a7b450eaf64e9631c3d0ccd">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/social-media">
+                                    Social Media
+                                </a>
+                                <ul class="nav flex-column mt-3">
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                </div>
+            </div>
+        </div>
+        <div class="megamenu main-nav" id="meganav_c9a7171c6e5243b18d428ca30119fab7">
+            <div class="container-fluid content-width px-0">
+                <div class="row no-gutters">
+                    <div class="col-12 col-md-5 second-level">
+                        <div class="row no-gutters">
+                            <div class="col-12">
+                                <a class="second-level-title h2 ml-3" href="/som/minewswire">
+                                    MiNewswire
+                                </a>
+                                <ul class="nav flex-column mt-3">
+
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-7 main-nav third-level active default"></div>
+                </div>
+            </div>
+        </div>
+
+        </div>
+    </div>
+
+<div class="component toggle col-12" data-properties="{&quot;easing&quot;:&quot;swing&quot;,&quot;speed&quot;:500,&quot;expandOnHover&quot;:false,&quot;expandedByDefault&quot;:false}">
+    <div class="component-content">
+        <div class="toggle-content details clearfix">
+            <summary class="toggle-header" tabindex="2">
+                <span class="toggle-label">
+                </span>
+            </summary>
+            <div class="row">
+<div class="component content component__section header__section-site-logo">
+    <div class="component-content">
+<a>
+
+<a href="/som"><img src="/som/-/media/Images/Logos/coat-of-arms.svg?rev=0d88f57fcb564da5afbe7d15d37104eb&hash=114C7721D3E333244C90A33A9A570AB6" alt="Coat of Arms Logo" /><span>State of Michigan</span></a>
+
+</a>    </div>
+</div>
+    <div class="component navigation col-12">
+        <div class="component-content">
+<div id="menuAmobile" aria-label="Main menu mobile" aria-labelleby="Main menu mobile" role="navigation" class="headerMain-menu">
+    <div class="menu-a">
+        <div class="mobile-nav">
+            <ul class="clearfix nav main-menu">
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                            <a class="nav-link lv1-0" href="/som/online-services">
+                                                Online Services
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title" data-id="#m_meganav_a3a9bd218d07465388dc4e9f341308f9">
+                                            <a tabindex="0" class="nav-link not-active lv1-1">
+                                                About Michigan
+                                                <span class="header-caret"></span>
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title" data-id="#m_meganav_9945a5e0924641869b014aaed1a95511">
+                                            <a tabindex="0" class="nav-link not-active lv1-2">
+                                                Government
+                                                <span class="header-caret"></span>
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                            <a class="nav-link lv1-3" href="/som/residents">
+                                                Residents
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                            <a class="nav-link lv1-4" href="/som/business">
+                                                Business
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title" data-id="#m_meganav_f98fb8c5081247aebb0ad2d8afca9886">
+                                            <a tabindex="0" class="nav-link not-active lv1-5">
+                                                Job Seekers
+                                                <span class="header-caret"></span>
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                            <a class="nav-link lv1-6" href="/som/social-media">
+                                                Social Media
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="level1 rel-level1 nav-item">
+                                    <div class="navigation-title field-navigation-title">
+                                            <a class="nav-link lv1-7 mobile-lv1-last" href="/som/minewswire">
+                                                MiNewswire
+                                            </a>
+                                    </div>
+                            </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="mobile-nav mobile-nav-lv2 main-width">
+            <div class="megamenu mobile-nav" id="m_meganav_465e34352e054f91b4a4c176cd92b1ea">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/online-services" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        Online Services
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_a3a9bd218d07465388dc4e9f341308f9">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/about-michigan" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        About Michigan
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+                                                <li class="nav-item">
+                                                            <a href="/som/about-michigan/state-facts-and-symbols" class="nav-link mobile-lv2-last">
+                                                                State Symbols Songs and Emblems
+                                                            </a>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_d613b2780ef2430593cfdc2e8e3ade0e">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/about-michigan/state-facts-and-symbols">
+                                            State Symbols Songs and Emblems
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_9945a5e0924641869b014aaed1a95511">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/government" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        Government
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+                                                <li class="nav-item">
+                                                            <a href="/som/government/state-license-search" class="nav-link">
+                                                                State License Search
+                                                            </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                            <a tabindex="0" class="nav-link not-active" data-subnavid="#m_subnav_02ddb9ed0dd04a4bbaae77314f572e3c">
+                                                                Branches of Government
+                                                                <span class="header-caret"></span>
+                                                            </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                            <a href="/som/government/local-government-form-search" class="nav-link">
+                                                                Local Government Forms Search
+                                                            </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                            <a href="/som/government/state-capitol" class="nav-link">
+                                                                Michigan State Capitol
+                                                            </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                            <a href="/som/government/state-facilities" class="nav-link">
+                                                                State Facilities
+                                                            </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                            <a href="/som/government/state-holidays" class="nav-link mobile-lv2-last">
+                                                                State Holidays
+                                                            </a>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_2447f57d7ac745ac86210374f7e9636e">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/government/state-license-search">
+                                            State License Search
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_02ddb9ed0dd04a4bbaae77314f572e3c">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/government/branches-of-government">
+                                            Branches of Government
+                                        </a>
+                                            <ul class="nav flex-column mt-3">
+                                                        <li class="nav-item">
+                                                                <a href="/som/government/branches-of-government/executive-branch" class="nav-link">
+                                                                    Executive Branch
+                                                                </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                                <a href="/som/government/branches-of-government/judicial-branch" class="nav-link">
+                                                                    Judicial Branch
+                                                                </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                                <a href="/som/government/branches-of-government/legislative-branch" class="nav-link">
+                                                                    Legislative Branch
+                                                                </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                                <a href="/som/government/branches-of-government/tribal-government" class="nav-link mobile-lv3-last">
+                                                                    Tribal Government
+                                                                </a>
+                                                        </li>
+
+                                            </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_4e799515c9a94a6cac8ffa791fe90d38">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/government/local-government-form-search">
+                                            Local Government Forms Search
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_afe85bffa20a4b63be7ebfdd29eb71e9">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/government/state-capitol">
+                                            Michigan State Capitol
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_7312dc77ac864191ac9d6a13667685bf">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/government/state-facilities">
+                                            State Facilities
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_3400b09fc945401a9d050dee7983dfca">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/government/state-holidays">
+                                            State Holidays
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_bcc5fee0cdac4869b101bc954be1a0a0">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/residents" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        Residents
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_a2186ccfe2c44fc298c7258e69a8ce59">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/business" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        Business
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_f98fb8c5081247aebb0ad2d8afca9886">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/job-seekers" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        Job Seekers
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+                                                <li class="nav-item">
+                                                            <a href="/som/job-seekers/state-of-michigan-employment" class="nav-link mobile-lv2-last">
+                                                                State of Michigan Employment
+                                                            </a>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                            <div class="col-12 mobile-nav third-level" id="m_subnav_0309773ab8cd443e854ad9f9a1b40719">
+                                <div class="row no-gutters">
+                                    <div class="col-12">
+                                        <a class="nav-link third-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                        <a class="nav-link third-level-title h3 ml-3 text-primary d-block" href="/som/job-seekers/state-of-michigan-employment">
+                                            State of Michigan Employment
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_401209098a7b450eaf64e9631c3d0ccd">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/social-media" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        Social Media
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="megamenu mobile-nav" id="m_meganav_c9a7171c6e5243b18d428ca30119fab7">
+                <div class="container-fluid px-0">
+                    <div class="row no-gutters">
+                        <div class="col-12 second-level">
+                            <div class="row no-gutters">
+                                <div class="col-12">
+                                    <a class="nav-link second-level-back not-active" href="#"><span class="header-caret-back"></span>Back</a>
+                                    <a href="/som/minewswire" class="nav-link second-level-title h3 ml-3 text-primary d-block">
+                                        MiNewswire
+                                    </a>
+                                    <ul class="nav flex-column mt-3">
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div></div>            </div>
+    </section>
+<div class="component content component__section">
+    <div class="component-content">
+<div class="header__section-search-container"><div class="container-fluid"><div class="row"><div class="col-12 no-col-padding"><div class="header-section-search-container-"><span class="sr-only" id="search-input-label">Header Search Box Label</span>
+<input aria-labelledby="search-input-label" type="text" name="" placeholder="What are you looking for?">
+<div class="shared-site-terms" style="display:none;">{D47FBCAD-4189-4E1B-B94C-362637BF389B}</div>
+
+
+<div class="local-site-terms" style="display:none;">{D47FBCAD-4189-4E1B-B94C-362637BF389B}</div>
+
+
+<div id="headerJSON" style="display:none;">https://dev.michigan.local/som/json?sc_device=json</div>
+<div id="headerCTX" style="display:none;">SOM</div>
+<div class="container"><div class="row"><div class="col-12"><div class="search-terms-container" style="display:none;"><ul class="search-terms-list"></ul></div></div></div></div><div class="links-container">
+<div class="row">
+
+
+
+
+<div class="col-md-4 offset-md-2">
+
+
+    
+        
+            
+        
+            
+                
+            
+            <div class="search-links-container">
+            <h3>Popular on michigan.gov</h3>
+            <ul class="search-links-list">
+
+            
+
+             <li class="search-links-item"><a class="search-links-link" href="https://www.michigan.gov/mdard" target="_blank">Agriculture and Rural Development</a></li>
+            
+
+             <li class="search-links-item"><a class="search-links-link" href="https://www.michigan.gov/mdcr" target="_blank">Civil Rights</a></li>
+            
+
+             <li class="search-links-item"><a class="search-links-link" href="https://www.michigan.gov/egle" target="_blank">Environment</a></li>
+            
+
+             <li class="search-links-item"><a class="search-links-link" href="https://www.michigan.gov/mdhhs" target="_blank">Health and Human Services</a></li>
+            
+
+             <li class="search-links-item"><a class="search-links-link" href="https://www.michigan.gov/dnr" target="_blank">Natural Resources</a></li>
+            
+
+             <li class="search-links-item"><a class="search-links-link" href="https://www.michigan.gov/sos" target="_blank">Secretary of State</a></li>
+            
+
+             </ul>
+             </div>
+
+            
+        
+    
+
+
+
+
+</div>
+
+<div class="col-md-4">
+
+
+    
+        
+            
+
+            
+
+            <div class="search-links-container">
+            <h3>How Do I...</h3>
+            <ul class="search-links-list">
+
+                        
+             <li class="search-links-list"><a class="search-links-link" href="https://mvic.sos.state.mi.us/Home/RegisterToVote" target="_blank">Register to Vote</a></li>
+                        
+             <li class="search-links-list"><a class="search-links-link" href="https://dsvsesvc.sos.state.mi.us/TAP/_/" target="_blank">Renew My License Plate</a></li>
+                        
+             <li class="search-links-list"><a class="search-links-link" href="https://www.michigan.gov/mdhhs/0,5885,7-339-71547---,00.html" target="_blank">View assistance programs</a></li>
+            
+
+             </ul>
+             </div>
+
+            
+        
+            
+        
+    
+
+
+
+
+</div>
+
+</div>
+</div></div></div></div></div></div>    </div>
+</div>
+
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="">
+            
+
+ 
+
+
+<div class="modal fade" id="browserDetectModal" tabindex="-1" role="dialog" aria-labelledby="browserDetectModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close modal-dialog-close" data-dismiss="modal" aria-label="Close">
+                    <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-label="close" role="img" fill="currentColor" focusable="false"><path d="M24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z" /></svg></span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-browser-detect-wrapper">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-2">
+                                <span class="warning-icon"></span>
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="browser-detection-box__section-content">
+                                    
+                                    <div class="browser-detection-box__section-heading">Unsupported Browser Detected</div>
+                                    
+                                    
+                                    <p>The web Browser you are currently using is unsupported, and some features of this site may not work as intended. Please update to a modern browser such as Chrome, Firefox or Edge to experience all features Michigan.gov has to offer.&nbsp;</p>
+                                    
+                                    
+                                    <div class="browser-detection-box__section-subheading">Supported Browsers</div>
+                                    
+                                    <div class="row">
+<div class="col-md-6 col-lg-3">
+<ul>
+    <li>                <a href="https://www.google.com/chrome/?brand=FHFK&amp;gclid=Cj0KCQiAk53-BRD0ARIsAJuNhptcTc4l_Kn-u3t6asbRCm-d_Uk2smxuQk1Vt_2ZS6cGVaUNkX29yREaAu8xEALw_wcB&amp;gclsrc=aw.ds" target="_blank"class="off-domain-link">Google Chrome<svg class="off-site-icon" aria-label="Off Site Icon" role="img" fill="currentColor" focusable="false" data-name="Layer 1"  xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path d="M26,28H6a2.0027,2.0027,0,0,1-2-2V6A2.0027,2.0027,0,0,1,6,4H16V6H6V26H26V16h2V26A2.0027,2.0027,0,0,1,26,28Z"/>
+  <polygon points="20 2 20 4 26.586 4 18 12.586 19.414 14 28 5.414 28 12 30 12 30 2 20 2"/>
+  <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
+</svg></a>            </li>
+    <li>                <a href="https://www.apple.com/safari/" target="_blank"class="off-domain-link">Safari<svg class="off-site-icon" aria-label="Off Site Icon" role="img" fill="currentColor" focusable="false" data-name="Layer 1"  xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path d="M26,28H6a2.0027,2.0027,0,0,1-2-2V6A2.0027,2.0027,0,0,1,6,4H16V6H6V26H26V16h2V26A2.0027,2.0027,0,0,1,26,28Z"/>
+  <polygon points="20 2 20 4 26.586 4 18 12.586 19.414 14 28 5.414 28 12 30 12 30 2 20 2"/>
+  <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
+</svg></a>            </li>
+</ul>
+</div>
+<div class="col-md-6 col-lg-3">
+<ul>
+    <li>                <a href="https://www.microsoft.com/en-us/edge" target="_blank"class="off-domain-link">Microsoft Edge<svg class="off-site-icon" aria-label="Off Site Icon" role="img" fill="currentColor" focusable="false" data-name="Layer 1"  xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path d="M26,28H6a2.0027,2.0027,0,0,1-2-2V6A2.0027,2.0027,0,0,1,6,4H16V6H6V26H26V16h2V26A2.0027,2.0027,0,0,1,26,28Z"/>
+  <polygon points="20 2 20 4 26.586 4 18 12.586 19.414 14 28 5.414 28 12 30 12 30 2 20 2"/>
+  <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
+</svg></a>            </li>
+    <li>                <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"class="off-domain-link">Firefox<svg class="off-site-icon" aria-label="Off Site Icon" role="img" fill="currentColor" focusable="false" data-name="Layer 1"  xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path d="M26,28H6a2.0027,2.0027,0,0,1-2-2V6A2.0027,2.0027,0,0,1,6,4H16V6H6V26H26V16h2V26A2.0027,2.0027,0,0,1,26,28Z"/>
+  <polygon points="20 2 20 4 26.586 4 18 12.586 19.414 14 28 5.414 28 12 30 12 30 2 20 2"/>
+  <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
+</svg></a>            </li>
+</ul>
+</div>
+</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+    <section class="component component-wrapper section__pageheader">
+
+<div class="component content component__section hero-image__section full">
+    <div class="component-content">
+<div class="print-only">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-12">
+        <!-- Get Page Title -->
+        <div class="content-title mb-0">404 - Page Not Found</div>
+      </div>
+    </div>
+  </div>
+</div><section class="hero-image__section full">
+	<div class="hero-image__section-hero-image">
+		<div class="hero-image__section-content">
+			<div class="row no-gutters">
+				<div class="col">
+					<div class="hero-image__section-text hero-image__section-text-full">
+                                               <div class="hero-image__section-content-title">
+                                               
+                                               <h1>404 - Page Not Found</h1>
+                                               
+                                               </div>
+				    	       <div class="shape-wrapper"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    </div>
+</div>
+    </section>
+
+
+    <section class="component component-wrapper section__pagebreadcrumb">
+            <div class="container-fluid">
+<div class="row">
+<div class="component breadcrumb navigation-title col-12">
+    <div class="component-content">
+        <nav>
+            <ol>
+                    <li class="breadcrumb-item last home">
+<div class="navigation-title field-navigationtitle"><a title="Home" href="/som">State of Michigan</a></div>                            <span class="separator"></span>
+                    </li>
+            </ol>
+        </nav>
+    </div>
+</div>
+</div>            </div>
+    </section>
+
+
+    <section class="component component-wrapper section__pagebody">
+
+<div class="component content component__section field__content">
+    <div class="component-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+<div class="field-content"><p>We're sorry, but we're unable to locate the page you requested. The page may have been removed, renamed, or deleted. You can try searching for the topic using the search button in the right hand corner above.</p></div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </section>
+
+
+    <section class="component component-wrapper section__pagefooter">
+            <div class="container">
+<div class="row"></div>            </div>
+    </section>
+
+
+    <section class="component component-wrapper">
+
+<div class="component component-social-breadcrumb component__section breadcrumb_social_content">
+    <div class="component-content">
+
+<div class="breadcrumb__section social">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb__section-content">
+                    <ul class="breadcrumb__section-content-nav">
+                        <li><span class="breadcrumb__section-content-follow">Follow us</span></li>
+
+                        
+                        <li class="social-icon"><a href="https://www.facebook.com/MIgovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="facebook" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm4 10.67h-1.8c-.72 0-.87.29-.87 1v1.63H20l-.28 2.7h-2.39v9.33h-4V16h-2.66v-2.67h2.66v-3.07c0-2.36 1.24-3.59 4-3.59H20Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://twitter.com/migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="twitter" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm8.09 12.86a10.9 10.9 0 0 1-16.76 9.67A7.69 7.69 0 0 0 13 21a3.86 3.86 0 0 1-3.58-2.66 3.85 3.85 0 0 0 1.73-.07 3.84 3.84 0 0 1-3.07-3.8 3.92 3.92 0 0 0 1.74.47 3.83 3.83 0 0 1-1.19-5.16 10.86 10.86 0 0 0 7.9 4 3.83 3.83 0 0 1 6.52-3.49 7.52 7.52 0 0 0 2.43-.93 3.85 3.85 0 0 1-1.68 2.12 7.49 7.49 0 0 0 2.2-.61 7.54 7.54 0 0 1-1.91 1.99Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://www.youtube.com/c/migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="youtube" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm5.92 22.52c-2.8.19-9 .19-11.84 0C7 22.31 6.69 20.83 6.67 16s.38-6.31 3.41-6.52c2.8-.19 9-.19 11.84 0 3 .21 3.39 1.69 3.41 6.52s-.33 6.31-3.41 6.52Zm-8.59-9.64L19.89 16l-6.56 3.13Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://www.instagram.com/migovernment/" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="instagram" role="img" fill="currentColor" focusable="false"><path d="M19.77 8.4c-1 0-1.28-.05-3.77-.05s-2.79 0-3.77.05c-2.53.12-3.71 1.32-3.83 3.83 0 1-.05 1.28-.05 3.77s0 2.79.05 3.77c.12 2.51 1.29 3.71 3.83 3.83h7.54c2.53-.12 3.71-1.32 3.83-3.83v-7.54c-.12-2.51-1.3-3.71-3.83-3.83ZM16 20.79A4.79 4.79 0 1 1 20.79 16 4.78 4.78 0 0 1 16 20.79Zm5-8.65A1.12 1.12 0 1 1 22.1 11a1.12 1.12 0 0 1-1.1 1.14ZM19.11 16A3.11 3.11 0 1 1 16 12.89 3.11 3.11 0 0 1 19.11 16ZM16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm9.28 19.85c-.16 3.39-2.05 5.27-5.43 5.43h-7.7c-3.39-.16-5.27-2-5.43-5.43v-7.7c.16-3.39 2-5.27 5.43-5.43h7.7c3.39.16 5.28 2.05 5.43 5.43V16c0 2.53.04 2.85 0 3.85Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://www.linkedin.com/company/migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="linkedin" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm-2.67 21.33h-2.66v-8h2.66ZM12 12.15a1.48 1.48 0 1 1 1.47-1.48A1.48 1.48 0 0 1 12 12.15Zm10.67 9.18H20v-3.81c0-2.51-2.67-2.3-2.67 0v3.81h-2.66v-8h2.66v1.46c1.17-2.15 5.34-2.31 5.34 2.06Z" /></svg></a></li>
+                        
+
+                       
+                        <li class="social-icon"><a href="https://www.flickr.com/migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="flickr" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm3.89 21.44A5.45 5.45 0 0 1 16 19.81a5.44 5.44 0 1 1 0-7.62 5.44 5.44 0 1 1 3.89 9.25ZM23.78 16a3.89 3.89 0 1 1-3.89-3.89A3.9 3.9 0 0 1 23.78 16Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://medium.com/@migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="medium" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm-4 21.25a5.25 5.25 0 1 1 5.19-5.31V16A5.23 5.23 0 0 1 12 21.25Zm8.3-.31c-1.44 0-2.61-2.21-2.61-4.94s1.17-4.94 2.61-4.94 2.6 2.21 2.6 4.94-1.17 4.94-2.62 4.94Zm4-.52c-.52 0-.93-2-.93-4.42s.41-4.42.93-4.42.92 2 .92 4.42-.4 4.42-.91 4.42Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://www.pinterest.com/migovernment/" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="pinterest" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm0 25.33a9.31 9.31 0 0 1-2.76-.41 10.46 10.46 0 0 0 1.16-2.45l.6-2.22a2.49 2.49 0 0 0 2.14 1.07c2.81 0 4.84-2.58 4.84-5.8a5.48 5.48 0 0 0-5.75-5.39c-4 0-6.17 2.7-6.17 5.65a4.16 4.16 0 0 0 1.9 3.61c.17.08.27.05.31-.12l.26-1.06a.28.28 0 0 0-.07-.27 3.68 3.68 0 0 1-.69-2.13A4 4 0 0 1 16 11.76a3.69 3.69 0 0 1 3.9 3.8c0 2.52-1.28 4.27-2.94 4.27a1.36 1.36 0 0 1-1.38-1.69 18.19 18.19 0 0 0 .78-3.1 1.18 1.18 0 0 0-1.19-1.32c-.93 0-1.69 1-1.69 2.27a3.2 3.2 0 0 0 .29 1.38L12.63 22a8.94 8.94 0 0 0 0 2.68 9.33 9.33 0 1 1 3.4.64Z" /></svg></a></li>
+                        
+
+                        
+                        <li class="social-icon"><a href="https://www.snapchat.com/add/migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="snapchat" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0Zm6.83 22a8 8 0 0 0-.23.87c-.12.39-.48.35-.88.27a4.67 4.67 0 0 0-1.71 0c-1 .17-2.13 1.72-4 1.72s-3-1.54-4.08-1.72a6.32 6.32 0 0 0-2.13.11.44.44 0 0 1-.45-.33 6.09 6.09 0 0 0-.19-.92c-.75-.12-2.45-.41-2.49-1.17a.39.39 0 0 1 .33-.44c2.5-.41 4.08-3.22 3.83-3.83-.19-.44-1-.59-1.32-.72-.86-.35-1-.74-.93-1a.92.92 0 0 1 .9-.62c.37 0 1 .49 1.52.21-.07-1.31-.26-3.18.21-4.23a5.14 5.14 0 0 1 4.79-3 5.16 5.16 0 0 1 4.81 3c.47 1 .28 2.91.21 4.23.47.26 1.06-.22 1.47-.22s.95.27 1 .72-.31.67-.94.92c-.34.13-1.13.29-1.32.72-.26.62 1.38 3.43 3.83 3.83a.39.39 0 0 1 .32.41c-.09.74-1.8 1.04-2.55 1.19Z" /></svg></a></li>
+                        
+
+                        
+
+                        
+                        <li class="social-icon"><a href="https://soundcloud.com/migovernment" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32" aria-label="soundcloud" role="img" fill="currentColor" focusable="false"><path d="M16 0a16 16 0 1 0 16 16A16 16 0 0 0 16 0ZM3.37 19.35a.08.08 0 0 1-.16 0l-.16-1.43.16-1.44a.08.08 0 1 1 .16 0l.23 1.44Zm1 .88a.08.08 0 1 1-.16 0l-.24-2.31.24-2.32.08-.07s.08 0 .08.07l.32 2.32Zm1.12.32a.28.28 0 0 1-.08.16.17.17 0 0 1-.16-.16L5 17.92l.24-2.79c0-.08.08-.08.08-.16a.17.17 0 0 1 .16.16l.24 2.79Zm1 .08a.17.17 0 0 1-.16.16.16.16 0 0 1-.15-.16l-.24-2.71.24-2.87c.07-.08.07-.16.15-.16a.17.17 0 0 1 .16.16l.24 2.87Zm1 .08a.16.16 0 1 1-.32 0L7 17.92l.16-2.63c0-.08.08-.16.24-.16a.17.17 0 0 1 .16.16l.24 2.63Zm1.12 0c0 .08-.08.16-.24.16a.17.17 0 0 1-.16-.16L8 17.92l.24-4.31c0-.08.08-.16.24-.16a.17.17 0 0 1 .16.16l.24 4.31Zm1.11 0a.26.26 0 0 1-.22.29.21.21 0 0 1-.24-.24l-.16-2.84.16-5.26a.24.24 0 0 1 .48 0l.26 5.26Zm1-.08a.24.24 0 1 1-.48 0l-.16-2.71.16-5.74a.26.26 0 0 1 .24-.24.21.21 0 0 1 .24.24l.16 5.74Zm1 0c0 .16-.07.24-.23.24a.21.21 0 0 1-.24-.24l-.16-2.71.16-5.9a.26.26 0 0 1 .24-.24.25.25 0 0 1 .23.24l.16 5.9Zm1.2 0a.32.32 0 0 1-.64 0l-.16-2.71.16-5.74a.32.32 0 0 1 .64 0l.16 5.74Zm1.12-.08a.32.32 0 0 1-.64 0l-.16-2.63.16-5.5c0-.24.08-.32.32-.4a.34.34 0 0 1 .32.32l.16 5.58Zm1 0a.34.34 0 0 1-.32.32.33.33 0 0 1-.31-.32l-.16-2.63.16-6.62a.33.33 0 0 1 .31-.32.34.34 0 0 1 .32.32l.16 6.62Zm1.12 0a.32.32 0 1 1-.64 0l-.16-2.63.16-7.18c0-.16.08-.32.24-.32H16a.34.34 0 0 1 .32.32l.16 7.18Zm9.49.4h-8.73a.53.53 0 0 1-.32-.4V10.42c0-.24.08-.32.32-.4a6.47 6.47 0 0 1 1.67-.31H19a5.57 5.57 0 0 1 5.58 5.1 2.92 2.92 0 0 1 1.2-.24 3.19 3.19 0 0 1 0 6.38Z" /></svg></a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+    </section>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="">
+            
+
+
+
+    <section class="component component-wrapper">
+            <div class="container-fluid">
+<div class="row">
+<div class="component content component__section footer__section-content">
+    <div class="component-content">
+<div class="print-only">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-12">
+        <!-- Get Attorney General logo url -->
+        <img class="print-footer-logo"  src="/som/-/media/Images/Logos/coat-of-arms.svg?rev=0d88f57fcb564da5afbe7d15d37104eb&hash=114C7721D3E333244C90A33A9A570AB6" alt="Coat of Arms Logo">
+      </div>
+      <div class="col-12">
+        <!-- Get Page Title -->
+        <div class="footer-header mb-0">404 - Page Not Found</div>
+        <!-- Get Copyright text -->
+        <span>Copyright  State of Michigan</span>
+      </div>
+    </div>
+  </div>
+</div>
+    
+        <div class="footer__section-logo"><div class="container"><div class="row"><div class="col-lg-3 col-md-4 footer__section-logo-img">
+        <img class="header-logo-img" src="/som/-/media/Images/Logos/coat-of-arms.svg?rev=0d88f57fcb564da5afbe7d15d37104eb&hash=114C7721D3E333244C90A33A9A570AB6" alt="Coat of Arms Logo"> 
+</div><div class="col-lg-3 col-md-4 footer__section-col">
+
+
+    <div class="component rich-text component__section">
+        <div class="component-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+<h2>About</h2>
+<p>&ldquo;If you seek a pleasant peninsula, look about you.&rdquo; Michigan&rsquo;s official state motto holds many truths &ndash; our state is a land of great splendors. Full of natural beauty, historical importance, and a talented, resourceful population, Michigan has it all. Our state services support residents, businesses, and visitors to the Great Lakes state.</p>
+<p>
+<br />
+<a href="/som/about-michigan" class="primary-cta">Learn more</a></p>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="col-lg-3 col-md-4 footer__section-col">
+
+
+    <div class="component rich-text component__section col-12">
+        <div class="component-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+<h2 class="footer__section-heading">Careers</h2>
+<p class="footer__section-heading">Balancing a rewarding career with the ability to have a high-quality lifestyle is important. In Michigan, you can have both. If you’re interested in a career that allows you to make a difference, check out the state of Michigan career portal for a list of current openings in state government.&nbsp;&nbsp;</p>
+<p class="footer__section-heading">&nbsp;</p>
+<p><a href="/som/job-seekers/state-of-michigan-employment" class="primary-cta">Careers</a></p>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="col-lg-3 col-md-4 footer__section-col">
+
+</div></div></div></div>
+    
+    
+       <div class="footer__section-links"><div class="container"><div class="row">
+
+              
+
+                <div class="col-md-4">
+                    <div class="footer__section-link-heading" data-toggle="collapse" data-target="#footer1" aria-expanded="true" aria-controls="footer1">State Government<div class="footer__section-buttons"><button><span class="open-icon-clear"><span class="sr-only">Open Icon</span></span><span class="close-icon-clear"><span class="sr-only">Close Icon</span></span></button></div></div>
+                    <ul id="footer1" class="footer__section-link-list collapse show" data-parent="#footerAccordion" aria-labelledby="footer1" style="">
+                    
+                        <li>
+                            <a href="http://www.state.mi.us/dit/directory.aspx" target="_blank" rel="noopener noreferrer">
+                                
+                                    Employee Search
+                                
+                            </a>
+                       </li>
+                    
+                        <li>
+                            <a href="/som/government/branches-of-government/executive-branch" target="_blank" rel="noopener noreferrer">
+                                
+                                    Executive Branch
+                                
+                            </a>
+                       </li>
+                    
+                        <li>
+                            <a href="/som/government/state-holidays" target="_blank" rel="noopener noreferrer">
+                                
+                                    State Holidays
+                                
+                            </a>
+                       </li>
+                    
+                    </ul>
+                </div>
+
+            
+
+
+
+              
+
+                <div class="col-md-4">
+                    <div class="footer__section-link-heading" data-toggle="collapse" data-target="#footer2" aria-expanded="true" aria-controls="footer2">Resources<div class="footer__section-buttons"><button><span class="open-icon-clear"><span class="sr-only">Open Icon</span></span><span class="close-icon-clear"><span class="sr-only">Close Icon</span></span></button></div></div>
+                    <ul id="footer2" class="footer__section-link-list collapse show" data-parent="#footerAccordion" aria-labelledby="footer2" style="">
+                    
+                        <li>
+                            <a href="/som/government/local-government-form-search" target="_blank" rel="noopener noreferrer">
+                                
+                                    Local Government Forms
+                                
+                            </a>
+                       </li>
+                    
+                        <li>
+                            <a href="https://www.michigan.gov/dtmb/buildings" target="_blank" rel="noopener noreferrer">
+                                
+                                    State Facilities 
+                                
+                            </a>
+                       </li>
+                    
+                        <li>
+                            <a href="/som/government/state-license-search" target="_blank" rel="noopener noreferrer">
+                                
+                                    State License Search
+                                
+                            </a>
+                       </li>
+                    
+                    </ul>
+                </div>
+
+            
+
+
+
+              
+
+                <div class="col-md-4">
+                    <div class="footer__section-link-heading" data-toggle="collapse" data-target="#footer3" aria-expanded="true" aria-controls="footer3">Support<div class="footer__section-buttons"><button><span class="open-icon-clear"><span class="sr-only">Open Icon</span></span><span class="close-icon-clear"><span class="sr-only">Close Icon</span></span></button></div></div>
+                    <ul id="footer3" class="footer__section-link-list collapse show" data-parent="#footerAccordion" aria-labelledby="footer3" style="">
+                    
+                        <li>
+                            <a href="https://www.michigan.gov/adaform" target="_blank" rel="noopener noreferrer">
+                                
+                                    ADA Complaint Procedure
+                                
+                            </a>
+                       </li>
+                    
+                        <li>
+                            <a href="/som/footer/help-and-support" >
+                                
+                                    Michigan.gov Support
+                                
+                            </a>
+                       </li>
+                    
+                    </ul>
+                </div>
+
+            
+
+</div></div></div>
+    
+<div class="row"><div class="footer__section-copyright col-md-12"><div class="container"><div class="row"><div class="col-md-10">
+	<div class="footer__section-copyright-nav">
+		<span>Copyright 2022 State of Michigan</span>
+		<span><a href="https://www.michigan.gov">Mi.gov Home</a></span>
+		<span><a href="https://www.michigan.gov/policies">Policies</a></span>
+		<span><a href="https://www.michigan.gov/adaform">Accessibility</a></span>
+		<span><a href="https://www.michigan.gov/disabilityresources">Disability Resources</a></span>
+		<span><a href="https://www.michigan.gov/foia">FOIA</a></span>
+		<a href="https://www.michigan.gov/som/government/branches-of-government/executive-branch">Departments</a>
+    </div>
+</div>
+<img id="trackVisitor" src="/TrackExternal.aspx" alt="Tracking Image" height="1" width="1" style="border-style:none;display:none;" />
+</div></div></div></div>    </div>
+</div>
+</div>            </div>
+    </section>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+
+
+
+
+<script src="/som/-/media/Base-Themes/Core-Libraries/scripts/optimized-min.js?rev=072d155a945b4efdb212299ae37e6906&hash=8BC67E6607ABACE0377F6B7CED263D9E"></script><script src="/som/-/media/Base-Themes/XA-API/Scripts/optimized-min.js?rev=1aefcfe8bb9a403a84297b9eab994011&hash=63207D47F54DB170B56B06CE61E09646"></script><script src="/som/-/media/Base-Themes/Main-Theme/scripts/optimized-min.js?rev=4520364d823749b2987c53c9205581f8&hash=F02EFD75F8CCF702B9C5D59A0CB7861A"></script><script src="/som/-/media/Base-Themes/Resolve-Conflicts/Scripts/optimized-min.js?rev=982d7287a07c403799e712add43eacc9&hash=9446F9B9D0C225CF8F19F8811DB6BB43"></script><script src="/som/-/media/Themes/eMiCoreTheme/som-guidelines/scripts/optimized-min.js?rev=4be41d557d6047c6b7ab64cc6077b1bb&hash=430714A0B2DB5035B4E52FB895C63BE2"></script><script src="/som/-/media/Base-Themes/Bing-Maps-JS-Connector/Scripts/optimized-min.js?rev=217efca5277b461b9280aef12d31f1a1&hash=5B46C6CB6FA97A23272FF67E278F88A7"></script><script src="/som/-/media/Base-Themes/Maps/Scripts/optimized-min.js?rev=11730654d604438da6e5c0ad5ee4257b&hash=D360576338B017013C26578BFBF055CE"></script><script src="/som/-/media/Base-Themes/SearchTheme/Scripts/optimized-min.js?rev=969bec865a8c400abffd53463a97526c&hash=3B821EDA2E2D06C5F7FA3678B2E3ACDC"></script><script src="/som/-/media/Base-Themes/Components-Theme/Scripts/optimized-min.js?rev=787b64b2b56449d3ab002371c11ee713&hash=93378DDFBE2875F0180DB7D595C1C89B"></script><script src="/som/-/media/Themes/eMiCoreTheme/DataTables/Scripts/optimized-min.js?rev=42c9b474f11e43b993d168805fa97257&hash=436FAF6ADF7EE2AA7DC614F6C07967E5"></script><script src="/som/-/media/Base-Themes/Slick-Carousel/scripts/optimized-min.js?rev=20a0a64181c24fa397f1f0d55cad226d&hash=F34A4ECD42EB5CE6979856FF661F9507"></script><script src="/som/-/media/Themes/eMiCoreTheme/DateRangePicker/Scripts/optimized-min.js?rev=46e8d82983c74438a8c3c46c163bbcef&hash=61758534C79301710DECE9309F0C6ABA"></script><script src="/som/-/media/Themes/eMiCoreTheme/Modernizr/Scripts/optimized-min.js?rev=fd542851360e4a0c8030c05d50a6abd0&hash=9F8151C81AE17F76F131B321C24234C2"></script><script src="/som/-/media/Themes/eMiCoreTheme/eMiCoreTheme/scripts/pre-optimized-min.js?rev=ca74e6325a454035b1f4b7354b01c710&hash=E7F767B53FA17D1A1B0DC7379A7D5658"></script>    <!-- /#wrapper -->
+</body>
+</html>

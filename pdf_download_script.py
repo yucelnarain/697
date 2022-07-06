@@ -14,7 +14,7 @@ import urllib.request
 
 
 # %%
-def download_pdfs(sample_number ,original_excel_file, path_to_store_converted_excel, converted_excel_sheet_name, path_for_pdfs):
+def download_pdfs(sample_number, original_excel_file, path_to_store_converted_excel, converted_excel_sheet_name, path_for_pdfs):
     """Specify the number of pdfs to download, excel file containing the url links, path for the new converted excel, 
     the sheet name you want to extract files from, and the path for where you want to store the downloaded pdfs which will be scraped from the sheet"""
     #Example command line execution: 
@@ -24,6 +24,7 @@ def download_pdfs(sample_number ,original_excel_file, path_to_store_converted_ex
     # path_to_store_converted_excel: '/Users/narainyucel/Google Drive/MADS/capstone/legal_nlp' 
     # converted_excel_sheet_name: 'Updated 06-16-2022' 
     # path_for_pdfs: '/Users/narainyucel/Google Drive/MADS/capstone/legal_nlp'
+
 
     #convert old xls to xlsx and split them into one xlsx per sheet, choose sheet with relevant information
     with xw.App(visible=False) as app:
@@ -66,7 +67,7 @@ def download_pdfs(sample_number ,original_excel_file, path_to_store_converted_ex
             except TimeoutError:
                 print("Request timed out")
     return 
-# %%
-#if __name__ == '__main__':
-download_pdfs(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
-# %%
+if __name__ == "__main__":
+    download_pdfs(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
+
+
