@@ -27,6 +27,7 @@ def download_pdfs(sample_number, original_excel_file, path_to_store_converted_ex
 
 
     #convert old xls to xlsx and split them into one xlsx per sheet, choose sheet with relevant information
+    print('open is assigned to %r' % open)
     with xw.App(visible=False) as app:
         wb = app.books.open(original_excel_file)
         for sheet in wb.sheets:
