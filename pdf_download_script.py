@@ -26,8 +26,7 @@ def download_pdfs(sample_number, original_excel_file, path_to_store_converted_ex
     # path_for_pdfs: '/Users/narainyucel/Google Drive/MADS/capstone/legal_nlp'
 
 
-    #convert old xls to xlsx and split them into one xlsx per sheet, choose sheet with relevant information
-    print('open is assigned to %r' % open)
+    #convert old xls to xlsx and split themprint('open is assigned to %r' % open)
     with xw.App(visible=False) as app:
         wb = app.books.open(original_excel_file)
         for sheet in wb.sheets:
